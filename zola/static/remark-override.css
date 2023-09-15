@@ -1,0 +1,23 @@
+@import "https://discuss.nevek.co/web/remark-original.css";
+
+:root .dark {
+  --primary-background-color: 27,31,34;
+  --color8: #1b1f22;
+  --color7: #25292e;
+  --color22: #141719;
+  --color36: #40484f;
+}
+
+.C_A {
+  font-weight: 500;
+  padding: 2px 7px 4px;
+}
+
+.C_B svg {
+  margin-top: 5px;
+}
+
+.C_B:before {
+  height: 29px;
+  top: -4px;
+}
